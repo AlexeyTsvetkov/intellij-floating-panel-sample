@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.alexeytsvetkov.intellijfloatingpanelsample
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
